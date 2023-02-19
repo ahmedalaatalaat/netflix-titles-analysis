@@ -8,7 +8,7 @@
 ![MIT_License](https://img.shields.io/badge/License-MIT-9e1e32?style=for-the-badge&logo=)
 
 <h1 align="center"> Netflix Titles Data Analysis</h1>
-In this project I wanted to fouce more in the data viulization part and the attributes of the plotly library so I have build a full dashbard viulization using plotly
+In this project, I focused more on the data visualization part and the attributes of the Plotly library. As a result, I built a complete dashboard visualization using Plotly.
 
 
 ## Demo
