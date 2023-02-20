@@ -13,7 +13,7 @@ In this project, I focused more on the data visualization part and the attribute
 
 ## Demo
 Live Demo: https://www.ahmedel-kady.com/netflix_project/netflix_titles/
-
+![demo_image](https://ahmedel-kady.com/media/images/project_4.PNG)
 
 ## 📝 License
 
